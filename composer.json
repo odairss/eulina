@@ -12,6 +12,6 @@
         "psr/log": "^1.0",
         "league/oauth2-google": "^2.0",
         "symfony/polyfill-mbstring": "^1.7",
-        "mpdf/mpdf": "^7.0"
+        "mpdf/mpdf": "^8.1"
     }
 }
